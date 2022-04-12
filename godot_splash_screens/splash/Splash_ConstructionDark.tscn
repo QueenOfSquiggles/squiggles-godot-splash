@@ -212,106 +212,11 @@ tracks/15/keys = {
 "update": 0,
 "values": [ -1.0 ]
 }
-tracks/16/type = "value"
-tracks/16/path = NodePath("../ViewportContainer/Viewport/Node2D/title_godot:modulate")
-tracks/16/interp = 1
-tracks/16/loop_wrap = true
-tracks/16/imported = false
-tracks/16/enabled = true
-tracks/16/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
-tracks/17/type = "value"
-tracks/17/path = NodePath("../ViewportContainer/Viewport/Node2D/subtitle_game_engine:modulate")
-tracks/17/interp = 1
-tracks/17/loop_wrap = true
-tracks/17/imported = false
-tracks/17/enabled = true
-tracks/17/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
-tracks/18/type = "value"
-tracks/18/path = NodePath("../ViewportContainer/Viewport/Node2D/TitleProudlyMadeWith:modulate")
-tracks/18/interp = 1
-tracks/18/loop_wrap = true
-tracks/18/imported = false
-tracks/18/enabled = true
-tracks/18/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
-tracks/19/type = "value"
-tracks/19/path = NodePath("../ViewportContainer/Viewport/Node2D/subtitle_game_engine/SubtitleGameEngine:modulate")
-tracks/19/interp = 1
-tracks/19/loop_wrap = true
-tracks/19/imported = false
-tracks/19/enabled = true
-tracks/19/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
-tracks/20/type = "value"
-tracks/20/path = NodePath("../ViewportContainer/Viewport/Node2D/robot_head/RobotEyeLeft:modulate")
-tracks/20/interp = 1
-tracks/20/loop_wrap = true
-tracks/20/imported = false
-tracks/20/enabled = true
-tracks/20/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
-tracks/21/type = "value"
-tracks/21/path = NodePath("../ViewportContainer/Viewport/Node2D/robot_head/RobotEyeRight:modulate")
-tracks/21/interp = 1
-tracks/21/loop_wrap = true
-tracks/21/imported = false
-tracks/21/enabled = true
-tracks/21/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
-tracks/22/type = "value"
-tracks/22/path = NodePath("../ViewportContainer/Viewport/Node2D/robot_head/RobotHeadTop:modulate")
-tracks/22/interp = 1
-tracks/22/loop_wrap = true
-tracks/22/imported = false
-tracks/22/enabled = true
-tracks/22/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
-tracks/23/type = "value"
-tracks/23/path = NodePath("../ViewportContainer/Viewport/Node2D/robot_head/RobotHeadBottom:modulate")
-tracks/23/interp = 1
-tracks/23/loop_wrap = true
-tracks/23/imported = false
-tracks/23/enabled = true
-tracks/23/keys = {
-"times": PoolRealArray( 0 ),
-"transitions": PoolRealArray( 1 ),
-"update": 0,
-"values": [ Color( 1, 1, 1, 1 ) ]
-}
 
 [sub_resource type="Animation" id=2]
 resource_name = "splash"
 length = 8.5
+loop = true
 tracks/0/type = "value"
 tracks/0/path = NodePath("../ViewportContainer/Viewport/Node2D/robot_head/RobotHeadTop:position")
 tracks/0/interp = 1

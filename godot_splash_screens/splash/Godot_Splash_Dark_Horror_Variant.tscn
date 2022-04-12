@@ -5,6 +5,7 @@
 [sub_resource type="Animation" id=1]
 resource_name = "splash_horror"
 length = 15.0
+loop = true
 tracks/0/type = "value"
 tracks/0/path = NodePath("../ViewportContainer/Viewport/Node2D/robot_head/RobotHeadTop:position")
 tracks/0/interp = 1
@@ -320,42 +321,6 @@ tracks/22/keys = {
 
 [node name="Godot_Splash_Dark_Horror_Variant" instance=ExtResource( 1 )]
 animation_name = "splash_horror"
-
-[node name="RobotEyeLeft" parent="ViewportContainer/Viewport/Node2D/robot_head" index="0"]
-modulate = Color( 0, 0, 0, 1 )
-
-[node name="RobotEyeRight" parent="ViewportContainer/Viewport/Node2D/robot_head" index="1"]
-modulate = Color( 0, 0, 0, 1 )
-
-[node name="RobotHeadTop" parent="ViewportContainer/Viewport/Node2D/robot_head" index="2"]
-modulate = Color( 0, 0, 0, 1 )
-
-[node name="RobotHeadBottom" parent="ViewportContainer/Viewport/Node2D/robot_head" index="3"]
-modulate = Color( 0, 0, 0, 1 )
-
-[node name="title_godot" parent="ViewportContainer/Viewport/Node2D" index="1"]
-modulate = Color( 0, 0, 0, 1 )
-
-[node name="LetterG" parent="ViewportContainer/Viewport/Node2D/title_godot" index="0"]
-position = Vector2( 498, 266 )
-
-[node name="LetterO1" parent="ViewportContainer/Viewport/Node2D/title_godot" index="1"]
-position = Vector2( 611, 266 )
-
-[node name="LetterD" parent="ViewportContainer/Viewport/Node2D/title_godot" index="2"]
-position = Vector2( 726, 266 )
-
-[node name="LetterO2" parent="ViewportContainer/Viewport/Node2D/title_godot" index="3"]
-position = Vector2( 836, 266 )
-
-[node name="LetterT" parent="ViewportContainer/Viewport/Node2D/title_godot" index="4"]
-position = Vector2( 937, 266 )
-
-[node name="SubtitleGameEngine" parent="ViewportContainer/Viewport/Node2D/subtitle_game_engine" index="0"]
-modulate = Color( 0, 0, 0, 1 )
-
-[node name="TitleProudlyMadeWith" parent="ViewportContainer/Viewport/Node2D" index="3"]
-modulate = Color( 0, 0, 0, 1 )
 
 [node name="AnimationPlayer" parent="ViewportContainer/Viewport/Node2D" index="4"]
 autoplay = "splash_horror"
