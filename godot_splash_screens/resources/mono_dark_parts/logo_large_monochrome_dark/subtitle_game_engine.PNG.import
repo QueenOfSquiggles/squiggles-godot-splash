@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/subtitle_game_engine.PNG-a0df3c7cbce3636804203426d73bc986.stex"
+path="res://.import/subtitle_game_engine.PNG-03660ce164eb79cbb7bb34abe3e424c8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/mono_dark_parts/logo_large_monochrome_dark/subtitle_game_engine.PNG"
-dest_files=[ "res://.import/subtitle_game_engine.PNG-a0df3c7cbce3636804203426d73bc986.stex" ]
+source_file="res://godot_splash_screens/resources/mono_dark_parts/logo_large_monochrome_dark/subtitle_game_engine.PNG"
+dest_files=[ "res://.import/subtitle_game_engine.PNG-03660ce164eb79cbb7bb34abe3e424c8.stex" ]
 
 [params]
 

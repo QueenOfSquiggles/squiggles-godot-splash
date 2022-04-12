@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/impactPlate_medium_000.ogg-f70e092758b801c2801c17ea07406faa.oggstr"
+path="res://.import/impactPlate_medium_000.ogg-1f2b952d6a0a7b55ad5effd354ad9931.oggstr"
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/audio/kenney_impact_pack/Audio/impactPlate_medium_000.ogg"
-dest_files=[ "res://.import/impactPlate_medium_000.ogg-f70e092758b801c2801c17ea07406faa.oggstr" ]
+source_file="res://godot_splash_screens/resources/audio/kenney_impact_pack/Audio/impactPlate_medium_000.ogg"
+dest_files=[ "res://.import/impactPlate_medium_000.ogg-1f2b952d6a0a7b55ad5effd354ad9931.oggstr" ]
 
 [params]
 

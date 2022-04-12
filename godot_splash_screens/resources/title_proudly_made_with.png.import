@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/title_proudly_made_with.png-19a1c672181b4ef26b9eed22f10ff766.stex"
+path="res://.import/title_proudly_made_with.png-37d92a05a23a1ddcc5ed4bee99834b75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/title_proudly_made_with.png"
-dest_files=[ "res://.import/title_proudly_made_with.png-19a1c672181b4ef26b9eed22f10ff766.stex" ]
+source_file="res://godot_splash_screens/resources/title_proudly_made_with.png"
+dest_files=[ "res://.import/title_proudly_made_with.png-37d92a05a23a1ddcc5ed4bee99834b75.stex" ]
 
 [params]
 

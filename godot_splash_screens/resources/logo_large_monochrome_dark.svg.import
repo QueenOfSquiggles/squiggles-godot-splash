@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/logo_large_monochrome_dark.svg-cf8182a4fc13923e8c38358386bd292d.stex"
+path="res://.import/logo_large_monochrome_dark.svg-0e76abdf245c40e0a90e0616b63ac7f5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/logo_large_monochrome_dark.svg"
-dest_files=[ "res://.import/logo_large_monochrome_dark.svg-cf8182a4fc13923e8c38358386bd292d.stex" ]
+source_file="res://godot_splash_screens/resources/logo_large_monochrome_dark.svg"
+dest_files=[ "res://.import/logo_large_monochrome_dark.svg-0e76abdf245c40e0a90e0616b63ac7f5.stex" ]
 
 [params]
 

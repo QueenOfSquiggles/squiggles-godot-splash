@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/letter_d.PNG-ff6bd6c46acb720f06845f6f6d42d4ef.stex"
+path="res://.import/letter_d.PNG-8ac0e9127f93877f795c7c305b094b59.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/mono_dark_parts/logo_large_monochrome_dark/letter_d.PNG"
-dest_files=[ "res://.import/letter_d.PNG-ff6bd6c46acb720f06845f6f6d42d4ef.stex" ]
+source_file="res://godot_splash_screens/resources/mono_dark_parts/logo_large_monochrome_dark/letter_d.PNG"
+dest_files=[ "res://.import/letter_d.PNG-8ac0e9127f93877f795c7c305b094b59.stex" ]
 
 [params]
 

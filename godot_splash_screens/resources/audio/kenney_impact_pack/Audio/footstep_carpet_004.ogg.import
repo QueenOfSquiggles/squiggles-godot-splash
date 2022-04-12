@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/footstep_carpet_004.ogg-9097a16018fd43ae9265aac89c1bc01f.oggstr"
+path="res://.import/footstep_carpet_004.ogg-4f9452e0f497b06ff5e35a0206fb212e.oggstr"
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/audio/kenney_impact_pack/Audio/footstep_carpet_004.ogg"
-dest_files=[ "res://.import/footstep_carpet_004.ogg-9097a16018fd43ae9265aac89c1bc01f.oggstr" ]
+source_file="res://godot_splash_screens/resources/audio/kenney_impact_pack/Audio/footstep_carpet_004.ogg"
+dest_files=[ "res://.import/footstep_carpet_004.ogg-4f9452e0f497b06ff5e35a0206fb212e.oggstr" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/impactMining_001.ogg-0ef1c8f27910ac9e8f40dbc5e9861338.oggstr"
+path="res://.import/impactMining_001.ogg-b91d1d40730348b0e41667943cbe936d.oggstr"
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/audio/kenney_impact_pack/Audio/impactMining_001.ogg"
-dest_files=[ "res://.import/impactMining_001.ogg-0ef1c8f27910ac9e8f40dbc5e9861338.oggstr" ]
+source_file="res://godot_splash_screens/resources/audio/kenney_impact_pack/Audio/impactMining_001.ogg"
+dest_files=[ "res://.import/impactMining_001.ogg-b91d1d40730348b0e41667943cbe936d.oggstr" ]
 
 [params]
 

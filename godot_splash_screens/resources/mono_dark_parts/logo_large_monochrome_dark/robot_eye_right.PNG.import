@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/robot_eye_right.PNG-ee0e993e4124151a59dc7b9135b51e66.stex"
+path="res://.import/robot_eye_right.PNG-08546952abef9638f11a02a5a2ae1632.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://modules/godot_splash_screens/resources/mono_dark_parts/logo_large_monochrome_dark/robot_eye_right.PNG"
-dest_files=[ "res://.import/robot_eye_right.PNG-ee0e993e4124151a59dc7b9135b51e66.stex" ]
+source_file="res://godot_splash_screens/resources/mono_dark_parts/logo_large_monochrome_dark/robot_eye_right.PNG"
+dest_files=[ "res://.import/robot_eye_right.PNG-08546952abef9638f11a02a5a2ae1632.stex" ]
 
 [params]
 
